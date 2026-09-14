@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sora: "Sora", sans-serif;
+  --breakpoint-xl: 1350px;
+  --breakpoint-2xl: 1550px;
+}

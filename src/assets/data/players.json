@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "Batsman",
+    "leftTrait": "Right-Hand-Bat",
+    "rightTrait": "Right-Arm-Medium",
+    "price": 1500000,
+    "imageUrl": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "2",
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-Rounder",
+    "leftTrait": "Left-Hand-Bat",
+    "rightTrait": "Right-Arm-Fast-Medium",
+    "price": 1600000,
+    "imageUrl": "https://images.unsplash.com/photo-1593341646782-e0b495cff86d?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "3",
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "leftTrait": "Right-Hand-Bat",
+    "rightTrait": "Right-Arm-Offbreak",
+    "price": 1450000,
+    "imageUrl": "https://images.unsplash.com/photo-1624194762955-5dc1fa288927?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "4",
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "role": "Bowler",
+    "leftTrait": "Right-Hand-Bat",
+    "rightTrait": "Right-Arm-Fast",
+    "price": 1550000,
+    "imageUrl": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "5",
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "leftTrait": "Right-Hand-Bat",
+    "rightTrait": "Right-Arm-Legbreak",
+    "price": 1400000,
+    "imageUrl": "https://images.unsplash.com/photo-1517466787929-bc90951d0974?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "6",
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "leftTrait": "Left-Hand-Bat",
+    "rightTrait": "Slow-Left-Arm",
+    "price": 1350000,
+    "imageUrl": "https://images.unsplash.com/photo-1587280501635-68a0e82cd5ff?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "7",
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "Bowler",
+    "leftTrait": "Right-Hand-Bat",
+    "rightTrait": "Right-Arm-Fast",
+    "price": 1600000,
+    "imageUrl": "https://images.unsplash.com/photo-1518659103847-f7035777dfb1?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "8",
+    "name": "Jos Buttler",
+    "country": "England",
+    "role": "Wicket-Keeper",
+    "leftTrait": "Right-Hand-Bat",
+    "rightTrait": "Wicketkeeper",
+    "price": 1450000,
+    "imageUrl": "https://images.unsplash.com/photo-1556816214-fda351e4a7fb?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "9",
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "leftTrait": "Right-Hand-Bat",
+    "rightTrait": "Right-Arm-Offbreak",
+    "price": 1300000,
+    "imageUrl": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "10",
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "leftTrait": "Left-Hand-Bat",
+    "rightTrait": "Left-Arm-Fast",
+    "price": 1500000,
+    "imageUrl": "https://images.unsplash.com/photo-1593341646782-e0b495cff86d?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "11",
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "role": "All-Rounder",
+    "leftTrait": "Right-Hand-Bat",
+    "rightTrait": "Right-Arm-Offbreak",
+    "price": 1350000,
+    "imageUrl": "https://images.unsplash.com/photo-1624194762955-5dc1fa288927?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "12",
+    "name": "Kagiso Rabada",
+    "country": "South Africa",
+    "role": "Bowler",
+    "leftTrait": "Left-Hand-Bat",
+    "rightTrait": "Right-Arm-Fast",
+    "price": 1300000,
+    "imageUrl": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "13",
+    "name": "Rohit Sharma",
+    "country": "India",
+    "role": "Batsman",
+    "leftTrait": "Right-Hand-Bat",
+    "rightTrait": "Right-Arm-Offbreak",
+    "price": 1500000,
+    "imageUrl": "https://images.unsplash.com/photo-1517466787929-bc90951d0974?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "14",
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "role": "Wicket-Keeper",
+    "leftTrait": "Left-Hand-Bat",
+    "rightTrait": "Wicketkeeper",
+    "price": 1200000,
+    "imageUrl": "https://images.unsplash.com/photo-1587280501635-68a0e82cd5ff?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "15",
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "leftTrait": "Right-Hand-Bat",
+    "rightTrait": "Left-Arm-Fast-Medium",
+    "price": 1400000,
+    "imageUrl": "https://images.unsplash.com/photo-1518659103847-f7035777dfb1?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "16",
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "role": "All-Rounder",
+    "leftTrait": "Right-Hand-Bat",
+    "rightTrait": "Right-Arm-Fast",
+    "price": 1550000,
+    "imageUrl": "https://images.unsplash.com/photo-1556816214-fda351e4a7fb?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "17",
+    "name": "Mohammad Rizwan",
+    "country": "Pakistan",
+    "role": "Wicket-Keeper",
+    "leftTrait": "Right-Hand-Bat",
+    "rightTrait": "Wicketkeeper",
+    "price": 1300000,
+    "imageUrl": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "18",
+    "name": "Sunil Narine",
+    "country": "West Indies",
+    "role": "All-Rounder",
+    "leftTrait": "Left-Hand-Bat",
+    "rightTrait": "Right-Arm-Offbreak",
+    "price": 1250000,
+    "imageUrl": "https://images.unsplash.com/photo-1593341646782-e0b495cff86d?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "19",
+    "name": "David Warner",
+    "country": "Australia",
+    "role": "Batsman",
+    "leftTrait": "Left-Hand-Bat",
+    "rightTrait": "Right-Arm-Legbreak",
+    "price": 1250000,
+    "imageUrl": "https://images.unsplash.com/photo-1624194762955-5dc1fa288927?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "20",
+    "name": "MS Dhoni",
+    "country": "India",
+    "role": "Wicket-Keeper",
+    "leftTrait": "Right-Hand-Bat",
+    "rightTrait": "Right-Arm-Medium",
+    "price": 1200000,
+    "imageUrl": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?q=80&w=600&auto=format&fit=crop"
+  }
+]
