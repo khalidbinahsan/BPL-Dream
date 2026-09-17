@@ -5,11 +5,12 @@ import PlayerSelection from "./assets/components/PlayerSelection";
 
 // Direct import: Vite automatically loads and parses the JSON into an array
 import playersData from "./assets/data/players.json";
-
+import { useState } from "react";
 function App() {
+  const [budget, setBudget] = useState(300000)
   return (
     <>
-      <Header />
+      <Header budget={budget} />
       <Hero />
       <PlayerSelection players={playersData} />
       <Footer></Footer>

@@ -1,6 +1,7 @@
-import React from 'react';
+import React, { useState } from 'react';
 import type Iplayer from '../types/Player';
 const PlayerCard = ({ player }: { player: Iplayer }) => {
+    const [isSelected, setIsSelected] = useState(false);
     return (
         <>
             {/* Card Image */}
@@ -51,8 +52,10 @@ const PlayerCard = ({ player }: { player: Iplayer }) => {
                 <span className="font-bold text-gray-900">
                   Price: ${player.price}
                 </span>
-                <button className="border border-gray-300 cursor-pointer text-gray-700 px-4 py-2 rounded-lg text-sm font-medium hover:bg-gray-50 transition-colors">
-                  Choose Player
+                <button 
+                onClick={() => setIsSelected(true)}
+                className="border border-gray-300  text-white px-4 py-2 rounded-lg text-sm font-medium  transition-colors bg-black">
+                  {isSelected ? 'Selected' : 'Choose Player'}
                 </button>
               </div>
         </>
